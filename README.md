@@ -1,9 +1,31 @@
 # Home Automation
 ## Project Objective
-•	To control the environment at home, in order to provide the necessary comfort, security and safety.
-•	To offer remote access to home appliances.
-•	To monitor home status anytime, anywhere. 
-•	 To increase confidence and self-esteem of the elderly or people with physical disabilities inside the house. 
-•	To reduce in-house physical mobility for people with physical disabilities.
-•	To provide to elderly people's caregivers (i.e. neighbors, family relatives) the opportunity to monitor their home environment.
+“Home automation” refers to the automatic and electronic control of household features, activity, and appliances. In simple terms, it means you can easily control the utilities and features of your home via the Internet to make life more convenient and secure, and even spend less on household bills.
+## Project Feature
+Bluetooth Connectivity
+Mobile App Control
+Individual Appliance Control
+Scheduling and Timers
+Scene and Routine Creation
+Voice Control
+Status Monitoring
+Energy Monitoring (Optional)
+Security Features
+Compatibility and Interoperability
+User-friendly Interface
+Compact and Sleek Design
+Affordability
+## Hardware Requirements
+Node MCU
+Bread Board
+jumper wire
+Relay board 5-v 
+Bulb
+Holders
+Plug
+# Software Requirements
+1) Arduino IDE
+2) Sinric Pro
+
+
 
