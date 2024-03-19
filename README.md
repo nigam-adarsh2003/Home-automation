@@ -24,8 +24,10 @@ Bulb
 Holders
 Plug
 # Software Requirements
-1) Arduino IDE
-2) Sinric Pro
+Arduino IDE
+Sinric Pro
+![image](https://github.com/nigam-adarsh2003/Home-automation/assets/119562732/b0715234-f599-4e54-878e-91452330870e)
+
 
 
 
