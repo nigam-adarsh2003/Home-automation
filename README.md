@@ -16,16 +16,16 @@
 * Compact and Sleek Design
 * Affordability
 ## Hardware Requirements
-Node MCU
-Bread Board
-jumper wire
-Relay board 5-v 
-Bulb
-Holders
-Plug
+* Node MCU
+* Bread Board
+* jumper wire
+* Relay board 5-v 
+* Bulb
+* Holders
+* Plug
 ## Software Requirements
-Arduino IDE
-Sinric Pro
+* Arduino IDE
+* Sinric Pro
 
 
 
